@@ -1,0 +1,13 @@
+step pertama masuk vps anjing 
+terus masukin command di bawah ini sesuai urutan nya memek 
+
+[ ini command command nya anjing ]
+wget  -O ddos.zip url.zip nya
+apt install unzip
+unzip ddos.zip
+chmod -R +x .
+sudo apt-get install -y dos2unix
+dos2unix installer.sh && dos2unix m-install.sh
+./installer.sh && ./m-install.sh
+node /root/methods/proxy_scrapper.js
+node /root/methods/BROWSERN3/proxy_scrapper.js
