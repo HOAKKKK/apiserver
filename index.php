@@ -194,19 +194,19 @@
         <!-- Quote pertama -->
         <div class="quote">
             "Sometimes kita harus ninggalin orang yang kita sayang banget,<br>
-            untuk nemuin orang yang sayang banget ke kita."
+             untuk nemuin orang yang sayang banget ke kita."
         </div>
 
         <div class="terminal">
             <pre>
-[ ROOT ACCESS // RED ZONE ]
+[ JLG NETWORK ACCESS ]
 
-> System : JLG TERMINAL v1.0
+> System : JLG TERMINAL 
 > Target : ./johenlastgen
 > Status : 🔴 HACKED
 
-"tidak ada yang bisa membuat aku sembuh,
- kecuali orang yang telah membuat aku luka"
+"“Nyatanya, manusia hanya perlu terbiasa. Seperti terbiasa bertemu, terbiasa berbicara, 
+  terbiasa tertawa bareng. Termasuk juga, terbiasa lupa, terbiasa tidak dengannya.”"
 
 Kami bukan perusak, kami pengingat.
 Your security is a joke.
@@ -217,7 +217,7 @@ We are JLG NETWORK.
         </div>
 
         <div class="glitch">
-            ⚡ RED RAIN // ACCESS GRANTED ⚡
+            ⚡ ACCESS GRANTED ⚡
         </div>
 
         <div class="owner">
