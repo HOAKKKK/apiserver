@@ -193,8 +193,8 @@
 
         <!-- Quote pertama -->
         <div class="quote">
-            "Sometimes kita harus ninggalin orang yang kita sayang banget,<br>
-             untuk nemuin orang yang sayang banget ke kita."
+            "walaupun pada akhirnya kita harus berpisah, 
+            setidaknya dunia pernah menjadi saksi betapa bahagianya aku saat bersamamu."
         </div>
 
         <div class="terminal">
@@ -205,9 +205,9 @@
 > Target : ./johenlastgen
 > Status : 🔴 HACKED
 
-"“Nyatanya, manusia hanya perlu terbiasa. Seperti terbiasa bertemu, terbiasa berbicara, 
-  terbiasa tertawa bareng. Termasuk juga, terbiasa lupa, terbiasa tidak dengannya.”"
-
+"jangan pernah menyesal dia pergi,
+tapi berbahagialah karena dia pernah ada"
+                
 Kami bukan perusak, kami pengingat.
 Your security is a joke.
 We are JLG NETWORK.
