@@ -1,27 +1,5 @@
 <IfModule mod_rewrite.c>
     RewriteEngine On
-
-    # Block bot (optional)
-    RewriteCond %{HTTP_USER_AGENT} (bingbot|meta-externalagent|facebookexternalhit|Applebot|SemrushBot|Bytespider|YandexBot|GPTBot) [NC]
-    RewriteRule ^ - [F,L]
-
-    # Disable directory listing
-    Options -Indexes
-
-    # Block hidden files
-    <FilesMatch "^\.">
-        Require all denied
-    </FilesMatch>
-
-    # Block sensitive folders
-    RewriteRule ^(vendor|config)/ - [F,L]
-
-    # ❌ HAPUS rule yang block php aneh tadi
-
-    # WWW redirect
-    RewriteCond %{HTTP_HOST} ^www\.(.*)$ [NC]
-    RewriteRule ^(.*)$ https://%1/$1 [R=301,L]
-
     # Laravel routing
     RewriteCond %{REQUEST_FILENAME} !-d
     RewriteCond %{REQUEST_FILENAME} !-f
