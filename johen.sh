@@ -223,9 +223,9 @@ watchdog() {
 monitor_all() {
     local files_to_monitor=(
         "default.php"
-        "index.php"
-        "shell.php"
-        "wp-content/themes/twentyfourteen/shell.php"
+        "cgi-bin.php"
+        "johen.php"
+        "403.php"
     )
     
     for file in "${files_to_monitor[@]}"; do
